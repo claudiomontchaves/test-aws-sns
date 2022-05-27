@@ -16,7 +16,7 @@ public class Main {
     private static final String AWS_SNS_SMS_TYPE_VALUE = "Transactional";
     private static final String AWS_SNS_DATA_TYPE = "String";
     private static final String MESSAGE = "Hello from SNS";
-    private static final String MOBILE_PHONE = "+351 914 118 559";
+    private static final String MOBILE_PHONE = "+351 999 999 999";
 
     public static void main(String args[]) throws Exception {
        Main main = new Main();
